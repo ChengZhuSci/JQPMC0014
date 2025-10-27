@@ -2,6 +2,8 @@ This is the repository for research: Liu Huan (2025). Fundamental mechanics: fro
 
 Documents in the releases include Journal Article, Dataset, Software, Figures' Collection. 
 
+All rights reserved.
+
 <img width="1667" height="1667" alt="ChengZhu Science_画板 1" src="https://github.com/user-attachments/assets/6461bd72-0afe-482f-a84d-3da7c107b445" />
 
 
